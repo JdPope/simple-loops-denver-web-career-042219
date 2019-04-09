@@ -22,7 +22,6 @@ number_of_times = 1
  phrase = "Welcome to Flatiron School's Web Development Course!"
 while number_of_times <= 7
 puts phrase
-break if number_of_times ==8
 number_of_times += 1
 end
 end
