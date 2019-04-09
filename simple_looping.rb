@@ -30,7 +30,7 @@ end
 def until_iterator(number_of_times)
   phrase = "Welcome to Flatiron School's Web Development Course!"
   counter = 0 
-  while counter <= 7 
+  until number_of_times = 7 
   puts 
 
 end
